@@ -3,6 +3,10 @@ package com.geekykel.globalaccelerex.testdb;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
+/**
+ * @author Kelvin on 09/03/2020
+ *
+ */
 public class testdb {
 
     public static void main(String[] args) {
